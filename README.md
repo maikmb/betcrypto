@@ -1,4 +1,4 @@
-# crypto.net
+# crypto.bet
 
 
 **Bem-vindo ao crypto.net: O Futuro das Apostas**
