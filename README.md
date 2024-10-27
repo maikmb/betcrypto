@@ -9,7 +9,7 @@ Imagine um mundo onde as apostas são transparentes, justas e seguras. Um mundo 
 
 Com o crypto.net, você pode apostar em uma variedade de eventos, desde esportes até jogos de azar, utilizando a tecnologia blockchain para garantir a transparência e a segurança de suas apostas. Nossa plataforma é descentralizada, o que significa que não há intermediários ou autoridades centrais que possam manipular os resultados.
 
-** Tecnologia de Ponta**
+**Tecnologia de Ponta**
 
 Nossa plataforma utiliza a tecnologia de ponta em blockchain para garantir a segurança e a transparência de suas apostas. Com o uso de contratos inteligentes, podemos garantir que as apostas sejam executadas de forma justa e transparente.
 
