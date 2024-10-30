@@ -51,6 +51,14 @@ NEXT_PUBLIC_BLOCKCHAIN_API_URL=sua-url-api
 
 Substitua `sua-chave-api` e `sua-url-api` pelas suas próprias chaves e URLs de API.
 
+4. Compile os contratos:
+
+
+```
+    npm run contract:build
+```
+
+
 ## Execução
 
 Execute o aplicativo em modo de desenvolvimento:
